@@ -1,7 +1,7 @@
-<picture>
+<h2><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
-  <img src="assets/title-light.svg" alt="Open Source Contributions" height="44">
-</picture>
+  <img src="assets/title-light.svg" alt="Open Source Contributions" height="40">
+</picture></h2>
 
 1. [**urunc**](https://github.com/urunc-dev/urunc) (Go) &nbsp;·&nbsp; 7 pull requests
 2. [**consul democracy**](https://github.com/consuldemocracy/consuldemocracy) (Ruby on Rails) &nbsp;·&nbsp; 3 pull requests
