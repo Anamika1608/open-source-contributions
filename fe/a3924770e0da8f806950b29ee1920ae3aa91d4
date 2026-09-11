@@ -1,0 +1,13 @@
+assets/title-dark.svg
+  ai_agent 1,4,6
+assets/title-light.svg
+  ai_agent 1,4,6
+README.md
+  ai_agent 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "fea3924770e0da8f806950b29ee1920ae3aa91d4",
+  "prompts": {}
+}
