@@ -1,4 +1,4 @@
-<h2><picture>
+<h2 id="open-source-contributions"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/heading-dark.svg">
   <img src="assets/heading-light.svg" alt="Open Source Contributions" height="40">
 </picture></h2>
