@@ -1,6 +1,6 @@
 <h2><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
-  <img src="assets/title-light.svg" alt="Open Source Contributions" height="40">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-dark.svg">
+  <img src="assets/heading-light.svg" alt="Open Source Contributions" height="40">
 </picture></h2>
 
 1. [**urunc**](https://github.com/urunc-dev/urunc) (Go) &nbsp;·&nbsp; 7 pull requests
@@ -13,7 +13,7 @@
 
 <h3><img src="https://github.com/urunc-dev.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-urunc-dark.svg"><img src="assets/h-urunc-light.svg" alt="urunc" align="center"></picture></h3>
 
-<img src="assets/lang-go.svg" alt="Go">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-go-dark.svg"><img src="assets/lang-go-light.svg" alt="Go"></picture>
 
 - **Project:** OCI-compatible container runtime that boots unikernels as containers on Firecracker, QEMU, and Cloud Hypervisor.
 - **My work:** Built the control-socket layer for all three monitors: API boot modes, graceful shutdown, and the guest-side handler in urunit.
@@ -32,7 +32,7 @@
 
 <h3><img src="https://github.com/consuldemocracy.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-consul-dark.svg"><img src="assets/h-consul-light.svg" alt="consul democracy" align="center"></picture></h3>
 
-<img src="assets/lang-rails.svg" alt="Ruby on Rails">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-rails-dark.svg"><img src="assets/lang-rails-light.svg" alt="Ruby on Rails"></picture>
 
 - **Project:** Citizen participation platform that cities worldwide use for proposals, debates, and participatory budgeting.
 - **My work:** Added enterprise single sign-on: SAML and OIDC authentication, plus per-install SAML settings.
@@ -47,7 +47,7 @@
 
 <h3><img src="https://github.com/DataHaskell.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-dataframe-dark.svg"><img src="assets/h-dataframe-light.svg" alt="dataframe" align="center"></picture></h3>
 
-<img src="assets/lang-haskell.svg" alt="Haskell">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-haskell-dark.svg"><img src="assets/lang-haskell-light.svg" alt="Haskell"></picture>
 
 - **Project:** Fast, type-safe dataframe library for Haskell with CSV and Parquet readers.
 - **My work:** Found and fixed a join bug for missing key columns, and documented and tested the Parquet read options.
@@ -63,7 +63,7 @@
 
 <h3><img src="https://github.com/p4lang.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-p4lang-dark.svg"><img src="assets/h-p4lang-light.svg" alt="p4lang" align="center"></picture></h3>
 
-<img src="assets/lang-github-actions.svg" alt="GitHub Actions">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-github-actions-dark.svg"><img src="assets/lang-github-actions-light.svg" alt="GitHub Actions"></picture>
 
 - **Project:** Reference software switch (behavioral-model) and packet test framework (ptf) for P4 programmable data planes.
 - **My work:** Automated the monthly release workflows for both repositories with GitHub Actions.
@@ -77,7 +77,7 @@
 
 <h3><img src="https://github.com/cilium.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-cilium-dark.svg"><img src="assets/h-cilium-light.svg" alt="cilium.io" align="center"></picture></h3>
 
-<img src="assets/lang-react.svg" alt="React">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-react-dark.svg"><img src="assets/lang-react-light.svg" alt="React"></picture>
 
 - **Project:** Website for Cilium, the eBPF-based networking, observability, and security project.
 - **My work:** Shipped the dark theme end to end, then fixed the pages it touched and a run of mobile layout bugs.
