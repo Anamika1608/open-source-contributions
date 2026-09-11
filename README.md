@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
-  <img src="assets/title-light.svg" alt="Open Source Contributions" height="48">
+  <img src="assets/title-light.svg" alt="Open Source Contributions" height="32">
 </picture>
 
 1. [**urunc**](https://github.com/urunc-dev/urunc) (Go) &nbsp;·&nbsp; 7 pull requests
