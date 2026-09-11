@@ -11,7 +11,7 @@
 
 <br>
 
-<h3><img src="https://github.com/urunc-dev.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-urunc-dark.svg"><img src="assets/h-urunc-light.svg" alt="urunc" align="center"></picture></h3>
+<h3 id="urunc"><img src="https://github.com/urunc-dev.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-urunc-dark.svg"><img src="assets/h-urunc-light.svg" alt="urunc" align="center"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-go-dark.svg"><img src="assets/lang-go-light.svg" alt="Go"></picture>
 
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3><img src="https://github.com/consuldemocracy.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-consul-dark.svg"><img src="assets/h-consul-light.svg" alt="consul democracy" align="center"></picture></h3>
+<h3 id="consul"><img src="https://github.com/consuldemocracy.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-consul-dark.svg"><img src="assets/h-consul-light.svg" alt="consul democracy" align="center"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-rails-dark.svg"><img src="assets/lang-rails-light.svg" alt="Ruby on Rails"></picture>
 
@@ -45,7 +45,7 @@
 
 <br>
 
-<h3><img src="https://github.com/DataHaskell.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-dataframe-dark.svg"><img src="assets/h-dataframe-light.svg" alt="dataframe" align="center"></picture></h3>
+<h3 id="dataframe"><img src="https://github.com/DataHaskell.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-dataframe-dark.svg"><img src="assets/h-dataframe-light.svg" alt="dataframe" align="center"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-haskell-dark.svg"><img src="assets/lang-haskell-light.svg" alt="Haskell"></picture>
 
@@ -61,7 +61,7 @@
 
 <br>
 
-<h3><img src="https://github.com/p4lang.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-p4lang-dark.svg"><img src="assets/h-p4lang-light.svg" alt="p4lang" align="center"></picture></h3>
+<h3 id="p4lang"><img src="https://github.com/p4lang.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-p4lang-dark.svg"><img src="assets/h-p4lang-light.svg" alt="p4lang" align="center"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-github-actions-dark.svg"><img src="assets/lang-github-actions-light.svg" alt="GitHub Actions"></picture>
 
@@ -75,7 +75,7 @@
 
 <br>
 
-<h3><img src="https://github.com/cilium.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-cilium-dark.svg"><img src="assets/h-cilium-light.svg" alt="cilium.io" align="center"></picture></h3>
+<h3 id="cilium"><img src="https://github.com/cilium.png" width="28" align="center" alt=""> &nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-cilium-dark.svg"><img src="assets/h-cilium-light.svg" alt="cilium.io" align="center"></picture></h3>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang-react-dark.svg"><img src="assets/lang-react-light.svg" alt="React"></picture>
 
