@@ -1,0 +1,19 @@
+README.md
+  s_4cb3716e694d5a::t_7a24497c42b60d 1,4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "fdfbd31e04a08dc388b9f13740f594909c00ea53",
+  "prompts": {},
+  "sessions": {
+    "s_4cb3716e694d5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b69d00a5-2264-4b0a-9b13-19bed930241e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Anamika Aggarwal <anamikaagg18@gmail.com>"
+    }
+  }
+}
