@@ -1,0 +1,23 @@
+assets/title-light.svg
+  s_4cb3716e694d5a::t_a7e3cb18c54f8c 1
+assets/title-dark.svg
+  s_4cb3716e694d5a::t_a7e3cb18c54f8c 1
+README.md
+  s_4cb3716e694d5a::t_a7e3cb18c54f8c 1,3-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c40e599392c818b615551d69e0652e6df80f76af",
+  "prompts": {},
+  "sessions": {
+    "s_4cb3716e694d5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b69d00a5-2264-4b0a-9b13-19bed930241e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Anamika Aggarwal <anamikaagg18@gmail.com>"
+    }
+  }
+}
