@@ -1,0 +1,63 @@
+assets/h-p4lang-light.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+assets/h-consul-dark.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 2-5,7
+  s_4cb3716e694d5a::t_943aadf782ddc6 1,6
+assets/h-consul-light.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 2-5,7
+  s_4cb3716e694d5a::t_943aadf782ddc6 1,6
+assets/lang-rails.svg
+  s_4cb3716e694d5a::t_068d2ad9d8fcc8 1-5
+assets/lang-github-actions.svg
+  s_4cb3716e694d5a::t_068d2ad9d8fcc8 1-5
+assets/lang-go.svg
+  s_4cb3716e694d5a::t_068d2ad9d8fcc8 1-5
+assets/lang-react.svg
+  s_4cb3716e694d5a::t_068d2ad9d8fcc8 1-5
+assets/h-urunc-dark.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+assets/h-cilium-dark.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+README.md
+  s_4cb3716e694d5a::t_b92f0b3f602a37 2-3
+  s_4cb3716e694d5a::t_ce828ea74530cf 1,4
+  s_4cb3716e694d5a::t_229b8f4980b911 14,48,64,78
+  s_4cb3716e694d5a::t_943aadf782ddc6 7,33
+  s_4cb3716e694d5a::t_068d2ad9d8fcc8 16,35,50,66,80
+assets/lang-haskell.svg
+  s_4cb3716e694d5a::t_068d2ad9d8fcc8 1-5
+assets/h-urunc-light.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+assets/title-dark.svg
+  s_4cb3716e694d5a::t_87446e5788fe8a 3-4
+  s_4cb3716e694d5a::t_990a7c5d50e03d 6
+  s_4cb3716e694d5a::t_b92f0b3f602a37 1-2,5,7
+assets/h-p4lang-dark.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+assets/h-cilium-light.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+assets/title-light.svg
+  s_4cb3716e694d5a::t_b92f0b3f602a37 1-2,5,7
+  s_4cb3716e694d5a::t_990a7c5d50e03d 6
+  s_4cb3716e694d5a::t_87446e5788fe8a 3-4
+assets/h-dataframe-light.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+assets/h-dataframe-dark.svg
+  s_4cb3716e694d5a::t_8089ca2df31a51 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3822f9129957091aae1c05cc22c6bb3eea7a39e7",
+  "prompts": {},
+  "sessions": {
+    "s_4cb3716e694d5a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b69d00a5-2264-4b0a-9b13-19bed930241e",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Anamika Aggarwal <anamikaagg18@gmail.com>"
+    }
+  }
+}
